@@ -1,0 +1,18 @@
+#slideshow {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .slide {
+    position: absolute;
+    width: 100%;
+    display: none;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+  
